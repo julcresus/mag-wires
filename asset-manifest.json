@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/mag-wires/static/css/main.47831535.css",
-    "main.js": "/mag-wires/static/js/main.05fec0df.js",
+    "main.js": "/mag-wires/static/js/main.e73f1b13.js",
     "static/js/787.f3b17c22.chunk.js": "/mag-wires/static/js/787.f3b17c22.chunk.js",
     "static/media/logo.svg": "/mag-wires/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/mag-wires/index.html",
     "main.47831535.css.map": "/mag-wires/static/css/main.47831535.css.map",
-    "main.05fec0df.js.map": "/mag-wires/static/js/main.05fec0df.js.map",
+    "main.e73f1b13.js.map": "/mag-wires/static/js/main.e73f1b13.js.map",
     "787.f3b17c22.chunk.js.map": "/mag-wires/static/js/787.f3b17c22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47831535.css",
-    "static/js/main.05fec0df.js"
+    "static/js/main.e73f1b13.js"
   ]
 }
